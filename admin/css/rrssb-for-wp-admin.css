@@ -1,0 +1,28 @@
+.rrssb-list {
+    padding: 10px;
+    border: 1px dashed #aaa;
+    margin-top: 10px;
+    width: 90%;
+}
+
+.rrssb-list h3 {
+    margin-top: 0;
+}
+
+.rrssb-buttons.rrssb-active, .rrssb-buttons.rrssb-inactive {
+    height: auto;
+    min-height: 36px;
+}
+
+.rrssb-buttons.rrssb-active li, .rrssb-buttons.rrssb-inactive li {
+    margin-bottom: 5px;
+}
+
+.rrssb-buttons.rrssb-active li a, .rrssb-buttons.rrssb-inactive li a {
+    height: 36px;
+    width: 140px;
+}
+
+.placeholder {
+    background-color: #ddd;
+}
